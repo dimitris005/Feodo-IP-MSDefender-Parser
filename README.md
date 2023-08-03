@@ -1,2 +1,2 @@
-# Feodo-IP-MSDefender-Parser
+# Feodo-to-MSDefender-Parser
 Parser for Botnet IPs from Feodo json format to MS Defender csv
